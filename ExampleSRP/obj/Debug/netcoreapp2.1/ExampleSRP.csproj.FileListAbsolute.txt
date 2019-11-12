@@ -1,0 +1,11 @@
+C:\Github\srp-solid\ExampleSRP\obj\Debug\netcoreapp2.1\ExampleSRP.csprojAssemblyReference.cache
+C:\Github\srp-solid\ExampleSRP\obj\Debug\netcoreapp2.1\ExampleSRP.csproj.CoreCompileInputs.cache
+C:\Github\srp-solid\ExampleSRP\obj\Debug\netcoreapp2.1\ExampleSRP.AssemblyInfoInputs.cache
+C:\Github\srp-solid\ExampleSRP\obj\Debug\netcoreapp2.1\ExampleSRP.AssemblyInfo.cs
+C:\Github\srp-solid\ExampleSRP\bin\Debug\netcoreapp2.1\ExampleSRP.deps.json
+C:\Github\srp-solid\ExampleSRP\bin\Debug\netcoreapp2.1\ExampleSRP.runtimeconfig.json
+C:\Github\srp-solid\ExampleSRP\bin\Debug\netcoreapp2.1\ExampleSRP.runtimeconfig.dev.json
+C:\Github\srp-solid\ExampleSRP\bin\Debug\netcoreapp2.1\ExampleSRP.dll
+C:\Github\srp-solid\ExampleSRP\bin\Debug\netcoreapp2.1\ExampleSRP.pdb
+C:\Github\srp-solid\ExampleSRP\obj\Debug\netcoreapp2.1\ExampleSRP.dll
+C:\Github\srp-solid\ExampleSRP\obj\Debug\netcoreapp2.1\ExampleSRP.pdb
