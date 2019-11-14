@@ -11,5 +11,14 @@ namespace ExampleSRP.src.Correct.Model
         public DateTime DateReg { get; set; }
 
         public Client() { }
+
+        public Client(string _name, string _email, string _cpf)
+        {
+            this.Name = _name;
+            this.Email = _email;
+            this.CPF = _cpf;
+            this.DateReg = DateTime.Now;
+        }
+
     }
 }
