@@ -10,7 +10,7 @@ namespace ExampleSRP.src.Correct.Repository
 
         public ConnectionRepository()
         {
-            this.connection = new MySqlConnection("Server=localhost;Database=andromeda;Uid=root;Pwd=s1m2e3l123;");
+            this.connection = new MySqlConnection("Server=XXXX;Database=XXXX;Uid=XXXX;Pwd=XXXX;");
         }
 
         public MySqlConnection Open()
